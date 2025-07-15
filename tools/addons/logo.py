@@ -28,7 +28,7 @@ def show_logo() -> None:
   """
 
     print(f"{F.RED}{logo}")
-    print("├─── DOS TOOL")
+    print("├─── DoS/DDoS TOOL")
     print("├─── AVAILABLE METHODS")
     print("├─── LAYER 7: HTTP | HTTP-PROXY | SLOWLORIS | SLOWLORIS-PROXY")
     if os.name != "nt":
